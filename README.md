@@ -1,1 +1,1 @@
-simple sound player for dearpygui as known dpg
+Simple audio player for dearpygui known as dpg
